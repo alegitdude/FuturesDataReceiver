@@ -1,0 +1,2 @@
+/home/alegitdude/Desktop/FuturesDataReceiver/build/CMakeFiles/edit_cache.dir
+/home/alegitdude/Desktop/FuturesDataReceiver/build/CMakeFiles/rebuild_cache.dir
